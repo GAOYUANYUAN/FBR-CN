@@ -1,0 +1,14 @@
+Fooled by Randomness, The Hidden Role of Chance in Life and in the Markets
+============================================================================
+
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   
+   aboutme
+   chapters/*
+   
+
