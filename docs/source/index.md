@@ -9,5 +9,6 @@ maxdepth: 2
 ./aboutme
 ./chapters/p00
 ./chapters/p01
+./chapters/p10
 ```
 
